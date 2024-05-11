@@ -26,5 +26,10 @@ pipeline {
                     '''
             }
         }
+        post {
+          success {
+            echo 'echo "Web APP available on http://192.168.56.11:9000/WeatherForecast"'
+          }
+        }
     }
 }
