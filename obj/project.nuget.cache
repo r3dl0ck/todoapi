@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vTVtaHKjWVwXavbRgoce3xXTYsak2kCkWfDCV/r8TEGohjCKKaaVTK9cbeOCg7Z3rXPoRLkbMlILeubbPqxb2A==",
+  "dgSpecHash": "2hFXBV1y7WO3aXgVmUNt42LLdLpEjwozb+Pq3tTtWMtLE7YU6bR62r4+BWdwe+bpVkVyOroL/9mo1WIZgKWz7g==",
   "success": true,
   "projectFilePath": "/home/vagrant/webapi/TodoApi/TodoApi.csproj",
   "expectedPackageFiles": [
