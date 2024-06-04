@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'dockerhost-label' }
+    // agent { label 'dockerhost-label' }
 
 
     stages {
